@@ -482,3 +482,7 @@ footer img {
   height: 8px;
   top: 0px
 }
+
+.center-text {
+  text-align: center;
+}
